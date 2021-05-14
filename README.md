@@ -1,2 +1,0 @@
-# Pythonprojects
-Python projects 
